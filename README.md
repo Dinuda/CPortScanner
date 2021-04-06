@@ -1,4 +1,4 @@
 # CPortScanner
 
 ## Run
-  ./a.out
+    ./a.out
