@@ -1,0 +1,4 @@
+# CPortScanner
+
+## Run
+  ./a.out
